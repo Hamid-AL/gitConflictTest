@@ -5,3 +5,6 @@ def greet():
 
 
 greet()
+
+def test():
+    print('test')
