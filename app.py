@@ -4,3 +4,6 @@ def greet():
     print("this was added by user b")
 
 greet()
+
+def test():
+    print('test')
